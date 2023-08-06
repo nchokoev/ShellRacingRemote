@@ -1,4 +1,4 @@
-![plot](./images/IMG_20230806_221812.jpg | width=200)
+![](./images/IMG_20230806_221812.jpg | width=200)
 # README
 With that code you will be able to control ShellRacing cars from ESP32. Currently
 the direction is controlled by pulling the defined pins to ground, but using ESP32
